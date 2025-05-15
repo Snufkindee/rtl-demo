@@ -1,5 +1,15 @@
 {
     "translation": {
-        "title": "Ninni & Eino"
+        "title": "Ninni & Eino",
+        "site_description": "Quick and basic RTL localization demo",
+        "english": "English",
+        "farsi": "Farsi",
+        "description": "Eino and Ninni are Oriental Shorthair cats that love to sleep and play together",
+        "ninni_info": "Ninni is a 2 year old cat that likes to eat everything and unfortunately everything that is made from plastic. <br /> She is a bit smaller than Eino but despite that much louder and active. <br /> She is very vocal and social and let's you know if the food bowl is empty.",
+        "eino_info": "Eino is a 5 year old cat. Fetching toys and eating popcorn is Eino's expertise. <br /> He always watches and follows around Ninni to make sure that she's fine whether Ninni likes it or not.",
+        "share": "Share",
+        "menu": "Menu",
+        "about": "About"
     }
 }
+
